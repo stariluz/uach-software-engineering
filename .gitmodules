@@ -1,0 +1,6 @@
+[submodule "uach-se-checklists-webapp"]
+	path = uach-se-checklists-webapp
+	url = https://github.com/stariluz/uach-se-checklists-webapp
+[submodule "uach-se-checklists-webapp-server"]
+	path = uach-se-checklists-webapp-server
+	url = https://github.com/stariluz/uach-se-checklists-webapp-server
